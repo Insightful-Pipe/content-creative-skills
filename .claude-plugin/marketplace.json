@@ -1,0 +1,18 @@
+{
+  "name": "insightfulpipe-content-creative",
+  "owner": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "metadata": {
+    "description": "29 free Claude skills for content, copywriting and ad creative: brand voice, copywriting, content strategy and distribution, social posts, ebooks, video ad scripts, UGC and creative testing.",
+    "version": "2026.10.3107"
+  },
+  "plugins": [
+    {
+      "name": "insightfulpipe-content-creative",
+      "description": "29 free Claude skills for content, copywriting and ad creative: brand voice, copywriting, content strategy and distribution, social posts, ebooks, video ad scripts, UGC and creative testing.",
+      "source": "./"
+    }
+  ]
+}
